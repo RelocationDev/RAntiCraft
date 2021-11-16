@@ -1,0 +1,7 @@
+blocked-materials:
+    - "STONE"
+
+bypass-permission: "relocationanticraft.bypass"
+
+no-permission-message:
+    - "&cNo permission"

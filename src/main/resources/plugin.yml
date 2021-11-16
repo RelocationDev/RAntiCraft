@@ -1,0 +1,5 @@
+name: RAntiCraft
+version: '${project.version}'
+main: me.relocation.ranticraft.RAntiCraft
+api-version: 1.16
+authors: [Relocation]
